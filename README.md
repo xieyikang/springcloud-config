@@ -1,2 +1,2 @@
 # springcloud-config
-learning springcloud
+learning springcloud config
